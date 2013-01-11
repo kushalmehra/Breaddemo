@@ -1,0 +1,8 @@
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\bin\Debug\BreadDemo.exe
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\bin\Debug\BreadDemo.pdb
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\BreadDemo.Properties.Resources.resources
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\BreadDemo.exe
+c:\users\kushal\documents\github\BreadDemo\BreadDemo\obj\x86\Debug\BreadDemo.pdb
